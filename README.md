@@ -9,9 +9,19 @@ Automation testing for creating a new form on PlanRadar website. Using Selenium 
 
 3- Create a new form with many fields (Predefined or Custom fields).
 
-4- Assign this form to an existing project.
+4- Edit fields and add a default value for them.
 
-5- Edit fields and add a default value for them.
+**Tools**
 
-6- Change any field to be a mandatory field.
+1- Selenium Java
+
+2- WebDriver
+
+3- TestNG
+
+
+**Demo**
+
+
+
 
