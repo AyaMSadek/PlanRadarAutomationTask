@@ -20,8 +20,5 @@ Automation testing for creating a new form on PlanRadar website. Using Selenium 
 3- TestNG
 
 
-**Demo**
-
-
 
 
