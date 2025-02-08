@@ -1,7 +1,7 @@
 # PlanRadarAutomationTask
 Automation testing for creating a new form on PlanRadar website. Using Selenium webDriver-Java.
 
-#The automation task should do the following:
+*The automation task should do the following:*
 
 1- Open PlanRadar website "https://www.planradar.com/login/"
 
